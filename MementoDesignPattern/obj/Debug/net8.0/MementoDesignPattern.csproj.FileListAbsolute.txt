@@ -1,0 +1,15 @@
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\bin\Debug\net8.0\MementoDesignPattern.exe
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\bin\Debug\net8.0\MementoDesignPattern.deps.json
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\bin\Debug\net8.0\MementoDesignPattern.runtimeconfig.json
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\bin\Debug\net8.0\MementoDesignPattern.dll
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\bin\Debug\net8.0\MementoDesignPattern.pdb
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.AssemblyInfo.cs
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.sourcelink.json
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.dll
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\refint\MementoDesignPattern.dll
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.pdb
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\MementoDesignPattern.genruntimeconfig.cache
+C:\Users\Ismail BAIDAR\Desktop\JobInTech\Design Patterns\MementoDesignPattern\obj\Debug\net8.0\ref\MementoDesignPattern.dll
